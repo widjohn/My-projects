@@ -24,7 +24,7 @@ with header:
 
 
 with dataset:
-	bank_personal= pd.read_csv('Bank_Personal_loan_Modelling.csv')
+	bank_personal= pd.read_csv('Bank_Personal_Loan_Modelling.csv')
 	st.write(bank_personal.head(3))
 
 
