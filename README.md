@@ -1,2 +1,3 @@
-# for_my_project
-Here ,on my repository you can find some codes , some descriptions of some projects that i worked on,you can find so many advanced machine learning algorithms , like some ensemble learning algorithms ,bagging, stacking , boosting ,,, and others. 
+ 
+I am johnny, from Brazil , i 'm a data scientist junior
+I am good at communicating and organizing, i really like working in groups,i have some  experiences in google cloud ,python, sql, databases , i have already developed several machine learning projects, like classifications , regressions and clustering  . I am interested  in learning something new each day, i can say that i am  curious about learning . .
