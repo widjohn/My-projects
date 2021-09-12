@@ -3,6 +3,5 @@ I do enjoy working with data, like visualize data, explore data and analyzing da
 I am also good at organizing,I really like working with people.
 I have some experiences in python,google cloud,aws,machine learning, statistics,sql  and oracle database. 
 
-<div>
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=widjohn)
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
