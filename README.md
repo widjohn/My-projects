@@ -5,6 +5,6 @@ I have some experiences in python,google cloud,aws,machine learning, statistics,
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=widjohn)](https://github.com/widjohn/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=widjohn&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=widjohn&hide=python,sql)](https://github.com/widjohn/github-readme-stats)
 
 
