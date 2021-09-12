@@ -4,6 +4,5 @@ I am also good at organizing,I really like working with people.
 I have some experiences in python,google cloud,aws,machine learning, statistics,sql  and oracle database. 
 
 <div>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=widjohn)
 </div>
